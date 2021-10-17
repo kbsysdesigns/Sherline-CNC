@@ -8,4 +8,4 @@ Core Setup:<br>
   <li>RAMBO 1.3 and/or Fysetc F6 Ramps-based board.</li>
   <li>Reprap Discount LCD controller</li>
   <li>Raspberry Pi4</li>
-<div>
+</ul>
